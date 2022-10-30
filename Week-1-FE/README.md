@@ -13,4 +13,13 @@ React diciptakan oleh Meta (dahulu Facebook) dan mulai dipublikasi pada NPM repo
   
 ## Struktur Folder React
 Untuk struktur folder pada react kita cukup fokus pada folder src saja
+- <img src="struktur-react.png" alt="struktur" width="200px"/>
+
+## React JS Basic 
+### Component
+Di React, komponen merupakan fondasi dalam membangun aplikasi seutuhnya. Dengan komponen, kita dapat mengelola state, mengirim dan menerima data melalui props, hingga melukiskan antarmuka kepada pengguna. Komponen di React memang luar biasa manfaatnya, tetapi semakin kompleks aplikasi yang dibangun, semakin kompleks pula kode yang dituliskan di dalam komponen.
+
+- Untuk membuat component kita perlu membuat folder nya terlebih dahulu didalam folder src seperti dibawah ini 
+  - <img src="struktur-react.png" alt="struktur" width="200px"/>
+
 
