@@ -19,7 +19,13 @@ Untuk struktur folder pada react kita cukup fokus pada folder src saja
 ### Component
 Di React, komponen merupakan fondasi dalam membangun aplikasi seutuhnya. Dengan komponen, kita dapat mengelola state, mengirim dan menerima data melalui props, hingga melukiskan antarmuka kepada pengguna. Komponen di React memang luar biasa manfaatnya, tetapi semakin kompleks aplikasi yang dibangun, semakin kompleks pula kode yang dituliskan di dalam komponen.
 
-- Untuk membuat component kita perlu membuat folder nya terlebih dahulu didalam folder src seperti dibawah ini 
-  - <img src="struktur-react.png" alt="struktur" width="200px"/>
+- Untuk membuat component kita perlu membuat folder components nya terlebih dahulu didalam folder src seperti dibawah ini 
+  - <img src="component.png" alt="struktur" width="200px"/>
+- Setelah kita membuat folder components kita buat file component nya seperti dibawah ini
+  - <img src="MyComponent.png" alt="struktur" width="200px"/>
+  - Note : 
+   - Penamaan file component harus diawali dengan huruf besar
+   - Diwajibkan untuk membungkus html didalam component menggunakan tag <div></div> atau tag fragment <></>
 
+- Styling 
 
