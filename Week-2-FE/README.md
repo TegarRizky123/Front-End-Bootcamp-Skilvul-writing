@@ -77,14 +77,7 @@ library tersebut. Komponen-komponen tersebut antara lain:
 3. `Route` - Komponen ini digunakan untuk membuat routing pada aplikasi React.
 4. `Link` - Komponen ini digunakan untuk membuat link pada aplikasi React.
 5. `Outlet` - Komponen ini digunakan untuk membuat routing pada aplikasi React.
-6. `useNavigate` - Komponen ini digunakan untuk membuat routing pada aplikasi
-   React.
-7. `useParams` - Komponen ini digunakan untuk membuat routing pada aplikasi
-   React.
-8. `useLocation` - Komponen ini digunakan untuk membuat routing pada aplikasi
-   React.
-9. `useMatch` - Komponen ini digunakan untuk membuat routing pada aplikasi
-   React.
+
 
 Dan masih banyak lagi komponen-komponen lainnya yang dapat digunakan untuk
 membuat routing pada aplikasi React. Untuk lebih jelasnya, silahkan baca
